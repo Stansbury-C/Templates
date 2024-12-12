@@ -4,6 +4,7 @@ about: A template to detail what documentation is required for a process or task
 title: 'Documentation : '
 labels: ''
 assignees: ''
+milestones: ''
 
 ---
 
